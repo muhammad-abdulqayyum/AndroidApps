@@ -19,7 +19,7 @@ Designed and built over a 2 day period in a total 8 Hour Code Sprint during Goog
 
 ### How to Use - Download the TestYourBrain-Installer.apk package to your Android device and install
 
-Direct Download Link: 
+Direct Download Link: https://github.com/muhammad-abdulqayyum/TestYourBrain/raw/master/android-installer-file/TestYourBrain-Installer.apk
 
 1) Use Android Phone to download installer file
 
