@@ -1,1 +1,1 @@
-# AndroidApps
+# A trivia game created in Java using Android Studio
